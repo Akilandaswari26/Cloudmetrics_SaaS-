@@ -1,0 +1,61 @@
+MODULE 13 — Executive Summary
+1. Business Situation
+
+CloudMetrics is experiencing signs of customer churn while new customer signups remain steady. The analysis was conducted to identify the main usage and customer signals associated with churn and estimate the revenue exposed to risk.
+
+2. Key Findings
+
+Customer churn
+
+There are 126 churned customers, compared with 301 active customers.
+Figure: Status distribution — Active 301, Churned 126, Paused 10.
+
+Usage is lower amoung churned customers
+
+Churned customers averaged 7.21 logins, compared with 11.18 for active customers.
+Figure: Average Logins — Churned 7.21 vs Active 11.18.
+
+Active-user engagement is also lower
+
+Churned customers averaged 3.84 active users, compared with 6.20 among active customers.
+Figure: Average Active Users — Churned 3.84 vs Active 6.20.
+
+Session engagement is lower
+
+Churned customers averaged 161.67 session minutes, compared with 253.63 for active customers.
+Figure: Average Session Minutes — Churned 161.67 vs Active 253.63.
+
+High-risk revenue exposure
+
+The risk scoring identified 165 customers with a risk score of 3 or above.
+These customers represent 78,844.68 MRR, or 31.46% of total MRR.
+Figure: High-Risk MRR — 78,844.68 (31.46% of total MRR).
+
+Retention
+
+The retention curve reached its lowest observed point at 96.36% in Month 20.
+The largest observed drop was 2.35 percentage points at Month 7.
+Figure: Retention Curve — Month 7 drop of 2.35 percentage points; Month 20 retention 96.36%.
+3. What Leadership Should Focus On
+
+The analysis shows a consistent relationship between lower product usage and churn. Customers who churned had lower login frequency, fewer active users, and substantially fewer session minutes.
+
+The risk score also identifies a sizeable revenue exposure: 78,844.68 MRR is associated with 165 high-risk customers.
+
+4. Prioritised Recommendation
+
+Priority 1: Focus customer-success efforts on the 165 high-risk customers, particularly those with low logins, active users, session minutes, and satisfaction.
+
+Priority 2: Introduce early engagement monitoring so customers showing declining usage can be contacted before cancellation.
+
+Priority 3: Review the needs of low-engagement customer groups and provide targeted onboarding, training, and product-support interventions.
+
+5. Revenue at Stake
+
+The current analysis identifies 78,844.68 MRR associated with high-risk customers, representing 31.46% of total MRR.
+
+This should be treated as revenue exposed to risk, not confirmed revenue loss, because the risk score is a heuristic and does not establish that these customers will definitely churn.
+
+Final leadership message:
+
+CloudMetrics should prioritise the 165 customers currently showing multiple risk signals, with 78,844.68 MRR identified as the immediate revenue exposure requiring retention attention.
